@@ -1,0 +1,21 @@
+fungsi Git Hub : membuat server
+Git vesion controling : Mengambil perubahan yang ada di Repo
+fungsi git clone : mengcopy atau mengambil repository,project,file 
+yang ada di GitHub
+
+ sentralis 
+ Ditstribusi
+ssh key:membuat generiknya 
+
+git status : melihat status perubahan yang kita buat (di laptop kita)
+git add: memilih file yang akan di commit
+git commit -m : untuk menyimpan file di repo local
+git push : meletekan ke server pusat
+git pull: untuk mengambil perubahan terbaru dari repo pusat (server)
+git clone: 
+
+fork adalah mengcon repo yang mw di copy .ke git hubnya saya
+
+Pelajaran GITG
+
+gitg : untuk melihat history .
